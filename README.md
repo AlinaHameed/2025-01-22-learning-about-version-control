@@ -1,2 +1,2 @@
 # Learning about Version Control
-Solving merger conflicts is easy!
+Solving merge conflicts is easy!
